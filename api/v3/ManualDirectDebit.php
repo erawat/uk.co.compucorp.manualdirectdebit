@@ -2,7 +2,6 @@
 
 /**
  * This API get called when run schedule job "Send Direct Debit Payment Collection Reminders"
- * Test adding comment. 
  *
  * @param $params
  *
